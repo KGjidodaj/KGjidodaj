@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Kristian Gjidodaj
 
-<!--
-**KGjidodaj/KGjidodaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior DevSecOps & IT Infrastructure Enthusiast
+BSc Student in Digital Systems @ University of Piraeus. Passionate about systems architecture, automation and data resilience (Disaster Recovery). Currently building Enterprise-grade simulations in my Home Lab.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ The Operations Room (Current Focus)
+* 🔭 **Home Lab Architecture:** Deploying Headless Linux VMs & SQL Server instances.
+* 💥 **Chaos Engineering:** Simulating Data Destruction and executing `RESTORE DATABASE ... WITH NORECOVERY`.
+* 🌱 **Next Steps and Ideas:** Transitioning from ClickOps to Infrastructure as Code (Bash Scripting, CI/CD).
+* 💬 **Ask me about:** T-SQL Execution Plans, SSH/X11 Forwarding, L2/L3 Network Troubleshooting and why `decimal(5,2)` saves lives.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+* **OS & Infrastructure:** Linux (Ubuntu/Kali Headless), Windows Server, VirtualBox Hypervisor.
+* **Databases:** MS SQL Server (T-SQL, RDBMS Architecture, Transaction Logs, Backups).
+* **Networking:** TCP/IP, Wireshark Packet Analysis, Port Forwarding (Firewalls), and Network Scans via Nmap.
+* **Scripting & Automation:** Python, Bash (In Progress), Git Version Control.
+
+---
+📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/kristian-gjidodaj/)
