@@ -5,6 +5,11 @@ BSc Student in Digital Systems @ University of Piraeus. Passionate about systems
 
 ---
 
+## 🧠 My Engineering Methodology 
+When developing automation tools (like my recent Linux Telemetry project) I adhere to **Sandboxed Testing**. To prevent host-system corruption during dependency resolution or privilege escalation testing, I try my scripts in **Docker Containers** as isolated, disposable environments. This "container-first" testing ensures that my code is portable, bulletproof to errors and production-ready before it is ever deployed on a server.
+
+---
+
 ### 🛡️ The Operations Room (Current Focus)
 * 🔭 **Home Lab Architecture:** Deploying Headless Linux VMs & SQL Server instances.
 * 💥 **Chaos Engineering:** Simulating Data Destruction and executing `RESTORE DATABASE ... WITH NORECOVERY`.
