@@ -1,29 +1,21 @@
-Hi, I'm Kristian Gjidodaj
+# Hi, I'm Kristian Gjidodaj 
+**Junior IT Infrastructure & DevSecOps Enthusiast**
 
-### Junior DevSecOps & IT Infrastructure Enthusiast
-BSc Student in Digital Systems @ University of Piraeus. Passionate about systems architecture, automation and data resilience (Disaster Recovery). Currently building Enterprise-grade simulations in my Home Lab.
+First-year BSc Digital Systems student at the University of Piraeus. I am an adept problem-solver passionate about secure network architectures, homelabbing and OS administration. I build robust infrastructures out of resource-constrained environments as learning opportunities.
 
----
+### 🔭 Current Focus & Engineering Sandbox
 
-## 🧠 My Engineering Methodology 
-When developing automation tools (like my recent Linux Telemetry project) I adhere to **Sandboxed Testing**. To prevent host-system corruption during dependency resolution or privilege escalation testing, I try my scripts in **Docker Containers** as isolated, disposable environments. This "container-first" testing ensures that my code is portable, bulletproof to errors and production-ready before it is ever deployed on a server.
-
----
-
-### 🛡️ The Operations Room (Current Focus)
-* 🔭 **Home Lab Architecture:** Deploying Headless Linux VMs & SQL Server instances.
-* 💥 **Chaos Engineering:** Simulating Data Destruction and executing `RESTORE DATABASE ... WITH NORECOVERY`.
-* ⚙️ **Systems Automation & Telemetry:** Developing interactive CLI dashboards and multi-language data pipelines (Bash/Python/C).
-* 🌱 **Next Steps and Ideas:** Transitioning from ClickOps to Infrastructure as Code (Bash Scripting, CI/CD).
-* 💬 **Ask me about:** T-SQL Execution Plans, SSH/X11 Forwarding, L2/L3 Network Troubleshooting and why `decimal(5,2)` saves lives.
-
----
+* **Zero-Trust Infrastructure:** Managing a hybrid bare-metal Arch Linux homelab. Orchestrating 10+ containers (Docker) including Nginx Proxy Manager, Vaultwarden and Uptime Kuma, with all external traffic secured through a strict WireGuard VPN tunnel.
+* **Network Privacy & Routing:** Architecting encrypted DNS pipelines using Pi-hole integrated with `dnsproxy` (DNS-over-HTTPS via Quad9). Configured router-level port forwarding. Set strict UFW default-drop policies and explicit UFW route rules for VPN micro-segmentation.
+* **Hardware Modifications & Firmware:** Successfully bypassed OEM hardware write-protections on Chromebook motherboards. Deploying standalone Linux environments on repurposed hardware as a server.
+* **Alternative Compute Environments:** Exploring varied compute architectures beyond standard Desktop OS, including Oracle VirtualBox, Kali Nethunter on mobile, and ChromeOS developer environments (Crostini terminal/LXC and Crouton chroots).
+* **Database & Chaos Engineering:** Architected and used MS SQL Server environments to learn T-SQL. Simulated data destruction to practice execution plan optimization and execute precise `RESTORE DATABASE ... WITH NORECOVERY` operations.
 
 ### 🛠️ Tech Stack & Arsenal
-* **OS & Infrastructure:** Linux (Ubuntu/Kali Headless), Windows Server, VirtualBox Hypervisor.
-* **Databases:** MS SQL Server (T-SQL, RDBMS Architecture, Transaction Logs, Backups).
-* **Networking:** TCP/IP, Wireshark Packet Analysis, Port Forwarding (Firewalls), and Network Scans via Nmap.
-* **Scripting & Automation:** Python, Bash (In Progress), Git Version Control.
 
----
+* **OS & Administration:** Windows, ChromeOS (Crostini LXC & Crouton chroot), Mobile Linux (Termux, Kali Nethunter: GUI via VNC) and Linux Distributions (CLI & GUI: Arch, Ubuntu, Kali, Mint).
+* **Networking & Security:** TCP/IP, WireGuard, Nginx Proxy Manager, UFW / iptables, Pi-hole, dnsproxy (DoH), Nmap, Wireshark.
+* **Virtualization & Containers:** Docker & Docker Compose, Oracle VirtualBox, Mobile Linux (Termux).
+* **Scripting & Observability:** Bash/Shell, Python, C, Git Version Control.
+
 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/kristian-gjidodaj/)
