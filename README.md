@@ -21,4 +21,4 @@ First-year Digital Systems student at the University of Piraeus. I am an adept p
 * **OS Administration:** Arch Linux, Kali, Ubuntu, Linux Mint, Windows, alternative compute environments (Crostini LXC, Crouton chroots, Kali Nethunter, Termux).
 * **Scripting & Tooling:** Bash/Shell, Python, C, Git Version Control, YAML/JSON.
 
-📫 **Connect with me:** [LinkedIn Profile]([link to linkedin](https://www.linkedin.com/in/kristian-gjidodaj/)
+📫 **Connect with me:** [LinkedIn Profile]([link to linkedin](https://www.linkedin.com/in/kristian-gjidodaj/))
